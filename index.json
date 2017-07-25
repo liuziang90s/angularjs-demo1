@@ -1,0 +1,37 @@
+ [
+  {
+    "title": "网点分布",
+    "children": [
+      {
+        "ui-sref": "home",
+        "text": "全部网点"
+      },
+      {
+        "ui-sref": "about",
+        "text": "预警历史"
+      }
+    ]
+  },
+  {
+    "title": "用户维护",
+    "children": [
+      {
+        "ui-sref": "home",
+        "text": "添加客户"
+      },
+      {
+        "ui-sref": "about",
+        "text": "用户列表"
+      }
+    ]
+  },
+  {
+    "title": "客户维护",
+    "children": [
+      {
+        "ui-sref": "home",
+        "text": "公司信息"
+      }
+    ]
+  }
+]
